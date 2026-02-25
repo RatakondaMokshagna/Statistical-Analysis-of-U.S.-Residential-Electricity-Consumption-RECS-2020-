@@ -202,10 +202,7 @@ When cloning or downloading this project, ensure your directory matches the foll
 │   ├──   fig1_kwh_distribution.png      
 │   ├──   fig2_regional_boxplot.png      
 │   ├──   fig3_income_vs_kwh.png     
-│   └──   fig4_residuals_vs_fitted.png 
-│
-└──  data/
-    └── recs2020_public_v7.csv             
+│   └──   fig4_residuals_vs_fitted.png            
 ```
 
 >  **Note:** The dataset `recs2020_public_v7.csv` is **not included** in this repository due to its size. Download it directly from the [EIA RECS 2020 page](https://www.eia.gov/consumption/residential/data/2020/) and place it inside the `data/` folder before running the notebook.

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Statistical Analysis of Residential Electricity Consumption in the United States
+#  Statistical Analysis of Residential Electricity Consumption in the United States
 ### Evidence from the 2020 Residential Energy Consumption Survey (RECS)
 **U.S. Energy Information Administration**
 
